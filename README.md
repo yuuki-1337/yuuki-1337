@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋, I'm Kauê Yamamoto
 
 <!--
 **yuuki-1337/yuuki-1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
